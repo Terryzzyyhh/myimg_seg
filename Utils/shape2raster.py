@@ -48,7 +48,7 @@ if __name__ == "__main__":
     # file_dir = r"D:\Agriculture\Project\xinjiang\awati_county\train_raster"
     # file_re = "*_2.tif"
     # files = glob.glob(os.path.join(file_dir, file_re))
-    files = [r"F:\DTHS2\2019.6S2\train_raster\T49RFM_20200512T030551_10m_C1.tif"]
+    files = [r"F:T49RFM_20200512T030551_10m_C1.tif"]
     # files = os.listdir(file_dir)
     print(files)
 
